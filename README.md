@@ -21,8 +21,9 @@
 
 ##
 
-![snake gif](https://github.com/vniciusbfonseca/viniciusbfonseca/blob/output/github-contribution-grid-snake.svg)
 
+
+![snake gif](https://github.com/viniciusbfonseca/viniciusbfonseca/blob/output/github-contribution-grid-snake.svg)
 
 
   

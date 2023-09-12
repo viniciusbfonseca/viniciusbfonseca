@@ -21,7 +21,7 @@
 
 ##
 
-![Snake animation](https://github.com/viniciusbfonseca)
+![Snake animation](https://github.com/viniciusbfonseca.svg)
 
   
 

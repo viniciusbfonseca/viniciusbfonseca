@@ -23,9 +23,6 @@
 
 
 
-![Snake animation](https://github.com/viniciusbfonseca)
-
-
   
 
 

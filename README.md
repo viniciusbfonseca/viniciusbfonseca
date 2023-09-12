@@ -21,10 +21,5 @@
 
 ##
 
-<div align="center">
-
-  ![Snake animation](https://github.com/viniciusbfonseca/viniciusbfonseca/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 

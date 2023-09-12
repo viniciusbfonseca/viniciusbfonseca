@@ -21,7 +21,7 @@
 
 ##
 
-![snake animation] (viniciusbfonseca)
+![snake gif](https://github.com/vniciusbfonseca/viniciusbfonseca/blob/output/github-contribution-grid-snake.svg)
 
 
 

@@ -4,12 +4,6 @@
 - 📘 Estudando Cursos da Alura como: HTML/CSS e JavaScript.
 - ✨ Amante da tecnologia, games e viagens.
 
-  <div>
-    <a href="https://github.com/viniciusbfonseca">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusbfonseca&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbfonseca&layout=compact&langs_count=168theme=dark"/>
-</div>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-kimanzi&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
  

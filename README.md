@@ -1,7 +1,6 @@
 ## Olá Pessoal! Eu sou o Vinny
 
 - 💻 Estou a procura da minha primeira oportunidade no mercado de trabalho como Desenvolvedor.
-- 📘 Estudando Cursos da Alura como: HTML/CSS e JavaScript.
 - ✨ Amante da tecnologia, games e viagens.
 
 
